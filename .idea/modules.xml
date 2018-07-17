@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/561. 数组拆分 I/561. 数组拆分 I.iml" filepath="$PROJECT_DIR$/561. 数组拆分 I/561. 数组拆分 I.iml" />
       <module fileurl="file://$PROJECT_DIR$/566. 重塑矩阵/566. 重塑矩阵.iml" filepath="$PROJECT_DIR$/566. 重塑矩阵/566. 重塑矩阵.iml" />
       <module fileurl="file://$PROJECT_DIR$/766. 托普利茨矩阵/766. 托普利茨矩阵.iml" filepath="$PROJECT_DIR$/766. 托普利茨矩阵/766. 托普利茨矩阵.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyTest/MyTest.iml" filepath="$PROJECT_DIR$/MyTest/MyTest.iml" />
     </modules>
   </component>
 </project>
